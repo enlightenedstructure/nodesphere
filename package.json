@@ -24,7 +24,7 @@
   "devDependencies": {
     "chai": "^3.2.0",
     "chai-as-promised": "^5.1.0",
-    "ipfsd-ctl": "^0.6.3",
+    "ipfsd-ctl": "^0.8.1",
     "mocha": "^2.2.5"
   },
   "repository": {
