@@ -12,7 +12,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^3.0.6",
+    "bluebird": "^3.2.0",
     "coffee-script": "^1.10.0",
     "ipfs-api": "jacksenechal/js-ipfs-api#c5085b16de2cd5294113062a0afe27ef2df09f53",
     "json-stable-stringify": "^1.0.0",
